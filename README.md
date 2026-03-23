@@ -10,15 +10,17 @@
 
 <div align="center">
  
- 🔭 I'm currently taking a Postgraduate diploma **in AI**
+ 💻 Python Developer specialized in automation, backend systems and AI solutions
  
- 🌱 I’m currently learning **ML and PyTorch**
-
-💬 Ask me about **Python, Pandas, API'S... or anything**
-
-⚡ Fun fact **I have a love-hate feeling towards programming.**
-
- </div>
+ 🚀 Experience building data pipelines, API integrations and scalable applications
+ 
+ 🎓 Postgraduate diploma in Artificial Intelligence
+ 
+ 🧠 Strong focus on Machine Learning, Deep Learning (PyTorch) and intelligent systems
+ 
+ 📱 Developing cross-platform and offline-capable applications
+ 
+</div>
  
 <div align="center"> 
   <a href="mailto:bsaavedra.dev@gmail.com">
@@ -38,9 +40,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Databases-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,django,fastapi,flask,html,css"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,django,fastapi,flask,html,css,flutter"/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,anaconda,neovim,github,git,notion" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,anaconda,neovim,github,git,notion" />
     
 </div>
 
